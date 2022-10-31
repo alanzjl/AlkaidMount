@@ -1,0 +1,6 @@
+[submodule "Firmware/OnStep"]
+	path = Firmware/OnStep
+	url = https://github.com/hjd1964/OnStep.git
+[submodule "Firmware/SmartWebServer"]
+	path = Firmware/SmartWebServer
+	url = https://github.com/hjd1964/SmartWebServer.git

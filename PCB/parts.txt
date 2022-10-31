@@ -1,0 +1,48 @@
+Partlist
+
+Exported from untitled.sch at 10/31/2022 12:25 AM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device                             Package                                   Library                            Sheet
+
+5V_REG   TSR_5V         TSR_5V                             TSR_5V                                    alans_lbr                          1
+AUX3                    PINHD-1X2                          1X02                                      pinhead                            1
+AUX4                    PINHD-1X2                          1X02                                      pinhead                            1
+C1       0.33uF         C-EU050-024X044                    C050-024X044                              rcl                                1
+C2       100uF          CPOL-EUE5-8.5                      E5-8,5                                    rcl                                1
+C3       0.1uF          C-EU050-024X044                    C050-024X044                              rcl                                1
+C4       47uF           CPOL-EUE5-8.5                      E5-8,5                                    rcl                                1
+C5       0.1uF          C-EU050-024X044                    C050-024X044                              rcl                                1
+C6       47uF           CPOL-EUE5-8.5                      E5-8,5                                    rcl                                1
+C7       100uF          CPOL-EUE5-8.5                      E5-8,5                                    rcl                                1
+D1       1N4004         1N4004                             DO41-10                                   adafruit                           1
+FUSE1    5X20MM_FUSE    5X20MM_FUSE                        5X20MM_FUSE                               alans_lbr                          1
+HND      RJ11-4X        RJ11-4X                            RJ11-NO_SHIELD                            con-tycoelectronics                1
+HND_5V                  PINHD-1X2                          1X02                                      pinhead                            1
+J1                      DCJ0303                            DCJ0303                                   con-jack                           1
+LED1                    LED5MM                             LED5MM                                    adafruit                           1
+LED2                    LED5MM                             LED5MM                                    adafruit                           1
+LED3                    LED5MM                             LED5MM                                    adafruit                           1
+PEC                     PINHD-1X2                          1X02                                      pinhead                            1
+R1       4.7k           R-EU_0207/7                        0207/7                                    rcl                                1
+R2       2k             R-EU_0207/7                        0207/7                                    rcl                                1
+R3       2k             R-EU_0207/7                        0207/7                                    rcl                                1
+R4       2k             R-EU_0207/7                        0207/7                                    rcl                                1
+R5       2k             R-EU_0207/7                        0207/7                                    rcl                                1
+R6       3.3k           R-EU_0207/7                        0207/7                                    rcl                                1
+R7       3.3k           R-EU_0207/7                        0207/7                                    rcl                                1
+R8       10k            R-EU_0207/7                        0207/7                                    rcl                                1
+R9       10k            R-EU_0207/7                        0207/7                                    rcl                                1
+R10      10k            R-EU_0207/7                        0207/7                                    rcl                                1
+SWITCH   1X2-3.5MM      1X2-3.5MM                          1X2-3.5MM                                 adafruit                           1
+U$1      TEENSY_4.0     TEENSY_4.0                         TEENSY_4.0                                TEENSY 4.0                         1
+U1       A4988 etc      A4988_STEPPER_MOTOR_DRIVER_CARRIER MODULE_A4988_STEPPER_MOTOR_DRIVER_CARRIER A4988_STEPPER_MOTOR_DRIVER_CARRIER 1
+U2       A4988 etc      A4988_STEPPER_MOTOR_DRIVER_CARRIER MODULE_A4988_STEPPER_MOTOR_DRIVER_CARRIER A4988_STEPPER_MOTOR_DRIVER_CARRIER 1
+USB1     USB-B_SOCKET   USB-B_SOCKET                       USB-B_SOCKET                              alans_lbr                          1
+X1       USB            JST-XH-04-PIN-ROUND-PAD            JST-XH-04-PACKAGE-ROUND-PAD               JST_XH_Connectors                  1
+X2       Axis1          JST-XH-04-PIN-LONG-PAD             JST-XH-04-PACKAGE-LONG-PAD                JST_XH_Connectors                  1
+X3       Axis2          JST-XH-04-PIN-LONG-PAD             JST-XH-04-PACKAGE-LONG-PAD                JST_XH_Connectors                  1
+X4       WIFI           JST-XH-04-PIN-LONG-PAD             JST-XH-04-PACKAGE-LONG-PAD                JST_XH_Connectors                  1
