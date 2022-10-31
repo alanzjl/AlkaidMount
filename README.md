@@ -7,7 +7,7 @@ Built by JZ.
 For my build log, checkout [this page on my website](https://alanz.info/posts/2022/07/diy-mount/).
 
 The following YouTube video documents all the processes with no explaination:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k2GoMa2DpH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Youtube Video](https://img.youtube.com/vi/k2GoMa2DpH8/0.jpg)](https://www.youtube.com/watch?v=k2GoMa2DpH8)
 
 The same video can also be found on [bilibili](https://www.bilibili.com/video/BV1SR4y1X7bt/?share_source=copy_web&vd_source=4d6f936f693563e28752aadac9dd326f).
 
