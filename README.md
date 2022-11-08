@@ -11,6 +11,10 @@ The following YouTube video documents all the processes with no explaination:
 
 The same video can also be found on [bilibili](https://www.bilibili.com/video/BV1SR4y1X7bt/?share_source=copy_web&vd_source=4d6f936f693563e28752aadac9dd326f).
 
+- Note: do not directly use the dxf files under the Machine/ folder.
+They are for reference only and they might contain duplicated parts, because I had to make several parts more than once due to some mistakes at the beginning.
+I'd recommend looking at the solidworks files first and try to understand every part, then generate your own dxf.
+
 ## Introduction
 AlkaidMount is a DIY aluminum HarmonicDrive German style equatorial mount with a ~25lbs unbalanced or >70lbs balanced load capacity, with a self weight of only ~16lbs.
 Each axis consists of a 100:1 HarmonicDrive gearbox, followed by a 27:1 planetary gearbox, driven by a Nema17 stepper motor.
