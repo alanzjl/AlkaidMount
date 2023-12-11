@@ -4,7 +4,7 @@
 
 Built by JZ.
 
-For my build log, checkout [this page on my website](https://alanz.info/posts/2022/07/diy-mount/).
+For my build log, checkout [this page on my website](https://alanz.info/pages/alkaidmount.html).
 
 The following YouTube video documents all the processes with no explaination:
 [![Youtube Video](https://img.youtube.com/vi/k2GoMa2DpH8/0.jpg)](https://www.youtube.com/watch?v=k2GoMa2DpH8)
